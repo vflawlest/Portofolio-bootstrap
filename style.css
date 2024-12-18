@@ -1,0 +1,22 @@
+/* body {
+  min-height: 3000px;
+} */
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #fac5c5;
+}
+#projects {
+  background-color: #fac5c5;
+}
+section {
+  padding-top: 5rem;
+}
+#jumbotron {
+  margin-top: 3rem;
+}
+footer {
+  margin-top: -2rem;
+}
+#projects {
+  margin-top: -2rem;
+}
